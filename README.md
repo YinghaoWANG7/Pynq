@@ -1,2 +1,2 @@
 # Pynq
-Rechercher sur Pnyq à Mons
+Rechercher sur Pynq à UMons
